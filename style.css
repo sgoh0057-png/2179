@@ -194,6 +194,51 @@ main {
   background: #ebe5dc;
 }
 
+.annotation-panel {
+  position: relative;
+}
+
+.chart-annotation {
+  position: absolute;
+  z-index: 30;
+
+  background: rgba(255, 253, 249, 0.96);
+  border: 1px solid #e8e1d8;
+  border-radius: 10px;
+
+  padding: 9px 12px;
+
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #333;
+
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
+.tennis-note {
+  right: 58px;
+  top: 160px;
+  max-width: 180px;
+}
+
+.frequency-note {
+  right: 64px;
+  bottom: -26px;
+  max-width: 220px;
+
+  border-color: #f3b39d;
+  color: #111;
+}
+
+.cricket-note {
+  right: 100px;
+  top: 300px;
+  max-width: 190px;
+
+  border-color: #f3b39d;
+}
+
 /* INSIGHT */
 
 .insight {
