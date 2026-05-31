@@ -216,6 +216,39 @@ main {
   box-shadow: 0 6px 18px rgba(0,0,0,0.08);
 }
 
+
+.afl-rank-note {
+  right: 30px;
+  top: 230px;
+  max-width: 185px;
+
+  border-color: #f3b39d;
+}
+
+.tennis-drop-note {
+  left: 200px;
+  top: 100px;
+  max-width: 190px;
+
+  border-color: #f3b39d;
+}
+
+.gender-balance-note {
+  right: 76px;
+  top: 80px;
+  max-width: 190px;
+
+  border-color: #f3b39d;
+}
+
+.afl-volunteer-note {
+  right: 100px;
+  top: 120px;
+  max-width: 190px;
+
+  border-color: #f3b39d;
+}
+
 .tennis-note {
   right: 58px;
   top: 160px;
